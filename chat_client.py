@@ -3,7 +3,7 @@ chat room
 客户端
 功能:发送请求，获取结果
 """
-
+# 导入模块
 from socket import *
 from multiprocessing import Process
 import sys
